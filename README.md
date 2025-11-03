@@ -88,52 +88,6 @@ Try the following tasks to deepen your understanding:
 
 5. **Compare Classical vs Quantum Queries**  
    Implement a classical function evaluator and compare the number of queries needed to classify the function type.
-
----
-
-## 🧠 Quick Quiz (MCQs)
-
-1. **What is the primary goal of Deutsch’s Algorithm?**  
-   a) To find hidden subgroups  
-   b) To determine if a function is constant or balanced ✅  
-   c) To factor integers  
-   d) To measure entanglement  
-
-2. **How many function evaluations does the quantum version need?**  
-   a) Two  
-   b) Four  
-   c) One ✅  
-   d) Depends on the function  
-
-3. **What operation creates superposition in this algorithm?**  
-   a) X gate  
-   b) CNOT gate  
-   c) H (Hadamard) gate ✅  
-   d) Z gate  
-
-4. **In Deutsch’s Algorithm, measurement of `|0⟩` implies:**  
-   a) The function is balanced  
-   b) The function is constant ✅  
-   c) The output is random  
-   d) Both inputs yield different outputs  
-
-5. **Which Qiskit component is used to execute the circuit?**  
-   a) QuantumCircuit  
-   b) AerSimulator ✅  
-   c) transpile  
-   d) QuantumRegister  
-
----
-
-## 👨‍💻 Author
-
-**Dr. Arun Pandian J**  
-Assistant Professor (Sr. Grade - I)  
-School of Computer Science Engineering and Information Systems  
-Vellore Institute of Technology (VIT), Vellore, India  
-
-**Research Interests:** Quantum Computing, Reinforcement Learning, Computer Vision  
-
 ---
 
 ## 🌐 Repository Link
